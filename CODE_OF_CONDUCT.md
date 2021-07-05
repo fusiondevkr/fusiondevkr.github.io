@@ -51,4 +51,3 @@ Fusion Dev Korea(이하 퓨전 개발자 혹은 FDK)는 개방적이고 서로�
 * [Code-for-Korea Code of Conduct](https://github.com/Code-for-Korea/community.identity/blob/master/code_of_conduct.md)
 * [Virtual Events Guideline](https://github.com/devrel-kr/virtual-events/tree/translated/l10n/ko-kr)
 * [HackaLearnx Korea](https://github.com/devrel-kr/HackaLearn/blob/main/CODE_OF_CONDUCT.md)
-* 
