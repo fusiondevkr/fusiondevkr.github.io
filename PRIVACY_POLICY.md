@@ -41,3 +41,4 @@ Fusion Dev Korea(이하 퓨전 개발자 혹은 FDS)의 개인정보의 처리 �
 ## ✔ 참고 자료 ##
 
 * [SW중심대학 공동해커톤 개인정보처리방침](https://swhackathon.com/)
+* [HackaLearnx Korea](https://github.com/devrel-kr/HackaLearn/blob/main/PRIVACY_POLICY.md)
